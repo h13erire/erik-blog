@@ -1,0 +1,13 @@
+{
+  "results": [{
+    "id": "2",
+    "title": "Vardag",
+    "content": "Vanliga veckor är också bra veckor! En rolig grej som hände i veckan var när jag och Tove gick till Ica Maxi i Falun för att handla så när vi var vid frukt och grönt susade det förbi en liten fågel som sedan satt sig och åt av salladen. Det var några som blev rätt paffa när dom skulle sträcka sig efter en sallad. Man har mycket att lära sig som person men en dag i taget till det bättre.",
+    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/mona-eendra.jpg",
+    "meta": {
+      "description": "Januari",
+      "published": "2018-01-16T18:17:00Z",
+      "author": "Erik Rehn -18"
+    }
+  }]
+}

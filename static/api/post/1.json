@@ -1,0 +1,13 @@
+{
+  "results": [{
+    "id": "1",
+    "title": "Ett gott nytt år",
+    "content": "2018 började med ett härligt gäng i den kalla vintern på kungsbacken med raketer och champagne. Ett fint firande med nära och kära, vinteraktiviteter på dagen på Flosjön som sedan följdes av middag och festligheter som bland annat ett väl utarbetat quiz och annat skoj. Nu har en vecka gått och jag och Tove har varit i Norra Garberg och åkt skidor i fint väder samt stök i huset då vi fick ut en garderob. Det tar sig!",
+    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/karl-magnuson.jpg",
+    "meta": {
+      "description": "Mitt första blogginlägg för 2018!",
+      "published": "2018-01-08T21:12:09Z",
+      "author": "Erik Rehn -18"
+    }
+  }]
+}

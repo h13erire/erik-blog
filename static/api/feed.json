@@ -1,0 +1,21 @@
+{
+  "results": [{
+    "title": "Ett gott nytt år!",
+    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/karl-magnuson.jpg",
+    "published": "2018-01-08T18:17:00Z",
+    "author": "Erik Rehn -18",
+    "id": "1"
+  },{
+    "title": "Vardag",
+    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/mona-eendra.jpg",
+    "published": "2018-01-16T21:23:00Z",
+    "author": "Erik Rehn -18",
+    "id": "2"
+  },{
+    "title": "Vinter",
+    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/maarten-van-den-heuvel.jpg",
+    "published": "2018-01-22T19:47:00Z",
+    "author": "Erik Rehn -18",
+    "id": "3"
+  }]
+}
