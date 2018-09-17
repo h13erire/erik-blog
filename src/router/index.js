@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import Blog from '../components'
-import Admin from '../components/Admin.vue'
+import BlogCMS from '../components/BlogCMS.vue'
 Vue.use(Router)
 
 export default new Router({
@@ -17,14 +17,14 @@ export default new Router({
     props: true,
     component: Blog
   }, {
-    path: '/admin',
-    name: 'admin',
-    props: true,
-    component: Admin
-  }, {
     path: '/read/:post',
     name: 'post',
     props: true,
     component: Blog
+  }, {
+    path: '/dashboard',
+    name: 'post',
+    props: true,
+    component: BlogCMS
   }]
 })

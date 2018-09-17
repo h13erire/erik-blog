@@ -2,6 +2,7 @@
   "results": [{
     "title": "Erik Rehn",
     "post_label": "Återgå till alla inlägg",
-    "author_label": "Se alla skribenter"
+    "author_label": "Se alla skribenter",
+    "admin": "Admin"
   }]
 }

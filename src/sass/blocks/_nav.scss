@@ -31,6 +31,11 @@
     color: cc(txt, alt);
   }
 
+  &__admin {
+    @extend %txt--banner;
+    color: cc(txt, alt);
+  }
+
   &__menu {
     position: relative;
 
